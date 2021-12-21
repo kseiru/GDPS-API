@@ -1,0 +1,4 @@
+**-1** - *WRONG SECRET KEY*<br>
+**-2** - *DATA NOT FOUND*<br>
+**-3** - *USER NOT MODERATOR*<br>
+**-4** - *MISSING REQUIRED ARGUMENT*

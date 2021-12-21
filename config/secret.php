@@ -1,0 +1,3 @@
+<?php
+$secret = 'SOMETHING'; ### THIS IS SECRET CODE USED FOR ADMIN TOOLS
+?>
